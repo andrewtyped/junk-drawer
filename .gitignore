@@ -4,6 +4,10 @@
 *.userosscache
 *.sln.docstates
 
+# Binaries
+*.exe
+*.obj
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
